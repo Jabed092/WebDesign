@@ -1,0 +1,6 @@
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll.config
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.pdb
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.csprojResolveAssemblyReference.cache
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.dll
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.pdb
